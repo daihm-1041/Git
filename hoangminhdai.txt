@@ -1,6 +1,2 @@
 lam tren nhanh hoang minh dai
-<<<<<<< HEAD
-Minh Dai
-=======
-Minh Thông
->>>>>>> cbbfa8c937a0b8a40acbe02de7e57fd0ec2623e7
+Ngọc Long
