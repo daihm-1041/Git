@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 Hoang Dai
-=======
+
 lam tren nhanh hoang minh dai
 Ngọc Long
->>>>>>> 9a4c26c0a07170ccd4cda4d701986b987d476cc6
+
